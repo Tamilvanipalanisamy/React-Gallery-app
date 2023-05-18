@@ -1,0 +1,14 @@
+.each-item {
+  list-style-type: none;
+  opacity: 0.5;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+active-item {
+  opacity: 1;
+}
+.button {
+  border: 1px solid transparent;
+  outline: none;
+  background-color: transparent;
+}
